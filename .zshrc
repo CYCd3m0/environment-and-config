@@ -18,7 +18,6 @@ ZSH_THEME=""
 
 # For my alias
 alias ccu="ssh zyj106u@csie0.cs.ccu.edu.tw"
-alias kia="ssh kia@140.123.22.238"
 alias c="clear"
 alias dk="docker"
 alias py="python3.7"
